@@ -47,5 +47,6 @@
 	<classpathentry kind="lib" path="D:/jar_files/docker-java-core-3.2.13.jar"/>
 	<classpathentry kind="lib" path="D:/selenium-java-3.141.59/client-combined-3.141.59.jar" sourcepath="/Projects"/>
 	<classpathentry kind="lib" path="D:/selenium-java-4.7.2/lib/checker-qual-3.12.0.jar"/>
+	<classpathentry kind="lib" path="D:/TestNG JAR/testng-7.4.0.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
